@@ -1,0 +1,26 @@
+.good_company .socialchain {
+    height: 60px;
+    width:60px;
+}
+.good_company .sony-music {
+    height:60px;
+    width:138px;
+}
+
+.good_company .universal-music-group {
+    height:60px;
+    width:160px;
+
+}
+.ceo .is-rounded {
+    width:80px;
+    height:80px;
+    border-radius: 50%;
+}
+.button {
+    background-color:rgb(196, 102, 196);
+    color: white;
+}
+.footer a {
+    color:rgb(196, 102, 196);
+}
