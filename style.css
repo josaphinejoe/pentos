@@ -49,6 +49,13 @@ h1,h2
 
 }
 
+.iconify
+{
+color: darkviolet;
+width:50px;
+height:50px;
+}
+
 /* ceo section */
 @media only screen and (min-width: 1020px)
 {
