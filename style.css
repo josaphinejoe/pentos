@@ -4,10 +4,15 @@
     padding-bottom:0px;
     padding-top:0px;
 }
-.button 
+.button1 
 {
     background-color:rgb(196, 102, 196);
     color: white;
+}
+.outline_button 
+{
+    color: rgb(196, 102, 196);
+    border-color: rgb(196, 102, 196)
 }
 /* tiktok analytics */
 h1,h2 
