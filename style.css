@@ -25,8 +25,8 @@ h1,h2
 {
     .section_objective 
     {
-        padding-left:140px;
-        padding-right:140px;
+        padding-left:130px;
+        padding-right:130px;
     }
    
 }
@@ -48,7 +48,7 @@ h1,h2
     width:160px;
 
 }
-
+/* More analytics features */
 .iconify
 {
 color: darkviolet;
@@ -61,8 +61,8 @@ height:50px;
 {
     .ceo 
     {
-        padding-left:140px;
-        padding-right:140px;
+        padding-left:130px;
+        padding-right:130px;
     }
 }
 
